@@ -1,0 +1,11 @@
+Input/Wheat-Field-with-Cypresses-at-the-Haute-Galline-Near-Eygalieres.bmp
+Input/Cypresses.bmp
+Input/Still-Life-with-a-Basket-of-Crocuses.bmp
+Input/The-Kingfisher.bmp
+Input/23.bmp
+Input/Cottage-with-Peasant-Coming-Home.bmp
+Input/Crab-on-Its-Back.bmp
+Input/The-Gleize-Bridge-over-the-Vigueirat-Canal.bmp
+Input/Wheat-Field-Under-Clouded-Sky.bmp
+Input/gogh2.bmp
+Input/gogh1.bmp
