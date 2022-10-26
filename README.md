@@ -2,5 +2,7 @@
 
 ## Project Programming Technique of HCMUS 
 
-- Convert a bitmap photo from color to black and white.
+- Convert 24-bit or 32-bit bmp photo to 8-bit.
 - Zoom-in a photo.
+
+## For more information, read in Document.
